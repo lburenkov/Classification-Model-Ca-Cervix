@@ -36,7 +36,6 @@ Results and conclusions:
 
 -KNN model had the best performance with Accuracy of Train set 1.0 and Accuracy of Test set 0.944
 
--The items that sale the most are: Fruits and Vetables and soft drinks For visualizations consult file
 
  Recomendations for better results: 
  Over or under sample the dataset to try to balance the target more. I would also recommend feature selection to reduces overfitting, less redundant data would improve accuracy
